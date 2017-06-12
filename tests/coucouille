@@ -1,0 +1,16 @@
+12
+A 1 3
+B 3 3
+C 2 2
+D 1 2
+##start
+E 2 3
+F 3 2
+##end
+G 2 1
+E-A
+E-B
+E-C
+C-D
+C-F
+C-G
